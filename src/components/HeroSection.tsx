@@ -39,7 +39,7 @@ const HeroSection: React.FC = () => {
                 View Guild Rules
               </a>
               <a 
-                href="https://discord.gg/your-invite-link" 
+                href="https://discord.gg/tyVeYHdggc" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="inline-block px-8 py-3 bg-indigo-600 hover:bg-indigo-500 text-white font-medium rounded-lg transition-colors duration-300 transform hover:scale-105"
