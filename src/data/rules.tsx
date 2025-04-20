@@ -54,10 +54,10 @@ export const rules: Rule[] = [
   },
   {
     id: 8,
-    title: 'Have Fun!',
+    title: 'Inactivity',
     description: (
       <>
-        Above all else, enjoy the game! We're here to have a good time together and support one another.
+        With 2 days of Inactivity = Kick.
       </>
     )
   }
