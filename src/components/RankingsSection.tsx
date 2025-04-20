@@ -23,7 +23,7 @@ const RankingsSection: React.FC = () => {
           <h2 className="text-4xl font-bold text-white mb-4">Weekly Top Rankings</h2>
           <div className="w-24 h-1 bg-yellow-500 mx-auto"></div>
           <p className="text-gray-300 mt-4 max-w-2xl mx-auto">
-            Top 10 players by level in the last week
+            Top 5 players by level in the last week
           </p>
         </div>
         
