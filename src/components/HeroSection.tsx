@@ -52,10 +52,10 @@ const HeroSection: React.FC = () => {
           {/* Guild Stats */}
           <div className="grid grid-cols-1 md:grid-cols-4 gap-6 mt-16">
             {[
-              { icon: Users, label: 'Active Members', value: '22+' },
+              { icon: Users, label: 'Active Members', value: '32+' },
               { icon: Sword, label: 'Daily Events', value: '3+' },
-              { icon: Trophy, label: 'Guild Ranking', value: '#2' },
-              { icon: Shield, label: 'Days Active', value: '4+' }
+              { icon: Trophy, label: 'Guild Ranking', value: '#1' },
+              { icon: Shield, label: 'Days Active', value: '7+' }
             ].map((stat, index) => (
               <div 
                 key={index}
